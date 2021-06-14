@@ -1,0 +1,97 @@
+
+
+body {
+
+    background-color: darkkhaki;
+    
+    text-align: center;
+
+    border: solid saddlebrown 5px;
+
+    padding: 50px 30px;
+
+    margin: auto;
+
+    font-family: verdana, arial, sans-serif;
+
+    width: 1000px;
+
+}
+
+p{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+    padding-bottom:30px;
+
+}
+
+h1, h2 {
+    
+    color: saddlebrown;
+}
+
+
+.BorderNav {
+
+    border-top: solid saddlebrown 4px;
+    border-bottom: solid saddlebrown 1px;
+    padding:30px 5px;
+    
+}
+
+a{
+
+    color: black;
+    font-size: 25px;
+    margin: 50px;
+    
+}
+
+a:hover {
+    color: maroon;
+    background-color: darkgoldenrod;
+}
+
+a:link {
+
+  text-decoration: none;
+}
+
+
+
+
+#piano{
+
+    padding-bottom: 25px;
+}
+
+#ContactUs {
+
+ text-align: left;
+
+ float: right;
+
+ margin-right: 10%;
+}
+
+#ContactImage{
+
+    padding:10px;
+    margin-left: 35%;
+}
+
+#ContactInfo{
+
+    padding: 10px;
+}
+
+
+.Footer{
+
+    color: white;
+    background-color: black;
+    padding-top: 10px;
+    
+}
+
